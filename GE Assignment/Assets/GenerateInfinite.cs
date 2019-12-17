@@ -19,9 +19,9 @@ public class GenerateInfinite : MonoBehaviour
     public GameObject plane;
     public GameObject cam;
 
-    int planeSize = 10;
-    int halfTilesX = 5;
-    int halfTilesZ = 10;
+    public int planeSize = 10;
+    public int halfTilesX = 5;
+    public int halfTilesZ = 10;
 
     Vector3 startPos;
     Hashtable tiles = new Hashtable();

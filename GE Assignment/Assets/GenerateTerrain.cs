@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class GenerateTerrain : MonoBehaviour
 {
-    int heightScale = 5;
-    float detailScale = 5.0f;
+    public int heightScale = 5;
+    public float detailScale = 5.0f;
 
     private void Start()
     {
