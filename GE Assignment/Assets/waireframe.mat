@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: waireframe
   m_Shader: {fileID: 4800000, guid: 2f1a6e4a47a2cf7439ccf35a179a2d97, type: 3}
-  m_ShaderKeywords: _AA_ON _EMISSION _MODE_WORLD _QUAD_ON _WLIGHT_UNLIT _WSTYLE_DEFAULT
+  m_ShaderKeywords: _AA_ON _EMISSION _MODE_WORLD _QUAD_ON _WLIGHT_SURFACE _WSTYLE_DEFAULT
     _WUV_UV0
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -143,7 +143,7 @@ Material:
     - _WEmission: 3
     - _WGloss: 0
     - _WInvert: 0
-    - _WLight: 2
+    - _WLight: 0
     - _WMetal: 0
     - _WMode: 2
     - _WOpacity: 1

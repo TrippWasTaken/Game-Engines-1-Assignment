@@ -33,9 +33,9 @@ public class GenerateInfinite : MonoBehaviour
 
         float updateTime = Time.realtimeSinceStartup;
 
-        for(int x = -halfTilesX; x < halfTilesX; x++)
+        for (int x = -halfTilesX; x < halfTilesX; x++)
         {
-            for(int z = -halfTilesZ; z < halfTilesZ; z++)
+            for (int z = -halfTilesZ; z < halfTilesZ; z++)
             {
                 Vector3 pos = new Vector3((x * planeSize + startPos.x), 0, (z * planeSize + startPos.z));
                 GameObject tileN = (GameObject)Instantiate(plane, pos, Quaternion.identity);
@@ -46,8 +46,8 @@ public class GenerateInfinite : MonoBehaviour
                 tiles.Add(tilename, tile);
             }
         }
-        
     }
+
 
     void Update()
     {
