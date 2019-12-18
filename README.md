@@ -13,6 +13,6 @@ Even though I didnt meet my expectations, I am proud of the fact I managed to ge
  
 I used a mix mash of tutorials from youtube from Peer Play for audio responsive stuff and Brackeys when I tried all the procedural stuff along the way as well as a wireframe asset my friend had.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=60YrR4d9kPo
-" target="_blank"><img src="https://i.ytimg.com/vi/60YrR4d9kPo/hqdefault.jpg" 
-alt="No image" width="1280" height="720" border=10" /></a>
+Heres the Visualizer in action :D
+
+[![](http://img.youtube.com/vi/60YrR4d9kPo/0.jpg)](http://www.youtube.com/watch?v=60YrR4d9kPo "")
