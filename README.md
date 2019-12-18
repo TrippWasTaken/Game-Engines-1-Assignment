@@ -3,17 +3,16 @@
 
 The ＡＥＳＴＨＥＴＩＣ Visualizer
 
-I plan to create a Music Visualizer around the theme of Vaporwave and lofi music such as [this](https://www.youtube.com/watch?v=9xw3S7FHPro) or the more classic [Home-Resonance](https://www.youtube.com/watch?v=8GW6sLrK40k) and [MACINTOSH PLUS - リサフランク420 / 現代のコンピュー |](https://youtu.be/aQkPcPqTq4M)
+For my assignment I created a Vaporwave style musical visualizer but if Im honest its far from what I envisioned.
+Sadly I did not accomplish my goal of creating an immersive vaporwave experience (I can partialy blame it on my lack of any planning and research before getting my hands dirty and diving deep in this project). As it turns out using perlin noise on a mesh and trying to make certain parts flat was basically impossible, I tried to use some masks but I just couldnt comprehend how I would even mask it the way I needed to. The same went for only displacing/manipulating certain parts of meshes, I could never connect them if there were flat parts :(, I have an inifite terrain generation in the scripts along with plane generation but they arent used in the final submission.
 
- The goal is to create a procedual car ride that will take you through the visual style of vaporwave asthetic type videos to truly maximize the feeling of endlessness and nostalgia that these songs tend to have.
+I had redone the different systems behind this project 3 times, each time I ran into different problems along on the way but the final work I have is pretty well functional and I did manage to make an audio reactive plane with a bunch of cube band eqs surrounding it. It looks sorta cool but far from what I actually wanted to make.
+
+Even though I didnt meet my expectations, I am proud of the fact I managed to get an audio responsive plane working pretty nicely. Also I like the way the glitch came out, originally I wasnt gonna do any of that but it adds a lot more character to the otherwise static stage.
  
  
- Think these images but we continually move towards the sunset never quite getting there as the surroundings in our visual react to the music
- 
-![Vaporwave](https://steamuserimages-a.akamaihd.net/ugc/933814433143844350/AFD5076167329FEC78BEFF8AA3622BA1CC292983/)
+I used a mix mash of tutorials from youtube from Peer Play for audio responsive stuff and Brackeys when I tried all the procedural stuff along the way as well as a wireframe asset my friend had.
 
-![Vaporwave](https://cdn.shopify.com/s/files/1/0001/8857/9891/files/outrun-min_large.jpg?v=1562235671)
-
-![Vaporwave](https://assets.2ser.com/wp-content/uploads/2019/09/10213539/shutterstock_1022092330-685x368.jpg)
-
-As the song reaches closer to its end so does our sunset as the seemingly endless car ride ends and fades with the song
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=60YrR4d9kPo
+" target="_blank"><img src="http://img.youtube.com/vi/60YrR4d9kPo/0.jpg" 
+alt="No image" width="1280" height="720" border="10" /></a>
