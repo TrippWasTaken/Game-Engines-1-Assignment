@@ -15,4 +15,4 @@ I used a mix mash of tutorials from youtube from Peer Play for audio responsive 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=60YrR4d9kPo
 " target="_blank"><img src="http://img.youtube.com/vi/60YrR4d9kPo/0.jpg" 
-alt="No image" width="1280" height="720" border="10" /></a>
+alt="No image" width="1280" height="720" border=1" /></a>
