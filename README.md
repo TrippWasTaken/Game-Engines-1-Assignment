@@ -14,5 +14,5 @@ Even though I didnt meet my expectations, I am proud of the fact I managed to ge
 I used a mix mash of tutorials from youtube from Peer Play for audio responsive stuff and Brackeys when I tried all the procedural stuff along the way as well as a wireframe asset my friend had.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=60YrR4d9kPo
-" target="_blank"><img src="http://img.youtube.com/vi/60YrR4d9kPo/0.jpg" 
-alt="No image" width="1280" height="720" border=1" /></a>
+" target="_blank"><img src="https://i.ytimg.com/vi/60YrR4d9kPo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDZz6tjhGw7XeQyCs0lwb9RgNXKCw" 
+alt="No image" width="1280" height="720" border=10" /></a>
